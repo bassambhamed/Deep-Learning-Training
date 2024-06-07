@@ -1,0 +1,3 @@
+https://datascience.stackexchange.com/questions/10615/number-of-parameters-in-an-lstm-model
+
+https://stackoverflow.com/questions/61913223/understand-the-summary-of-a-lstm-model
